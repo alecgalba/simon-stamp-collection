@@ -1,6 +1,6 @@
-Simon's Stamp Collection Application
+Git Practice Place
 ---
 
-#About Simon
+#About
 
-Stuff about Simon's Stamps here...
+A repo to practice Git commands
