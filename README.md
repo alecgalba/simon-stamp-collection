@@ -1,6 +1,6 @@
 Simon's Stamp Collection Application
 ---
 
-#About
+#About Simon
 
 Stuff about Simon's Stamps here...
